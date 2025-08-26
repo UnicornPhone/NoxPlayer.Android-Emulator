@@ -1,0 +1,2 @@
+# NoxPlayer.Android-Emulator
+NoxPlayer
